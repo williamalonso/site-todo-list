@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/williamalonso/todo-list/blob/master/src/assets/img/home.png" alt"Home Page" title="To Do List em Angular" width="600" />
+  <img src="https://github.com/williamalonso/todo-list/blob/master/src/assets/img/home.png" alt"Home Page" title="To Do List em Angular" width="453" />
   
 
 ---
