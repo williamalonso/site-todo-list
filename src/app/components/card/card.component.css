@@ -1,0 +1,14 @@
+.del-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+.example-card {
+    margin: 10px;
+}
+.example-full-width {
+    width: 100%;
+}
+.mc-actions {
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+<mat-card class="example-card">
+    <mat-card-header>
+      <mat-card-title>Lista de tarefas com Angular</mat-card-title>
+      <mat-card-subtitle>Não esquecer</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+        <ul>
+            <li *ngFor="let item of items">
+                <div class="del-row"><p>{{item}}</p><button mat-button (click)="removeTask(this.item)">Excluir</button></div>
+            </li>
+        </ul>
+    </mat-card-content>
+    <table class="example-full-width" cellspacing="0">
+        <tr>
+            <td>
+                <mat-form-field class="example-full-width-name">
+                    <mat-label>Digite a tarefa</mat-label>
+                    <input matInput [(ngModel)]="description">
+                </mat-form-field>
+            </td>
+            <mat-card-actions class="mc-actions">
+                <button mat-button (click)="addTask()">Adicionar</button>
+            </mat-card-actions>
+        </tr>
+    </table>
+</mat-card>
+  
