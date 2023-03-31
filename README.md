@@ -1,27 +1,50 @@
-# TodoList
+<h1 align="center">
+    To-Do List
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+<div align="center">
+  <img src="https://github.com/williamalonso/todo-list/blob/master/src/assets/img/home.png" alt"Home Page" title="To Do List em Angular" width="600" />
+  
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+</div>
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+### 🤔 Sobre o Projeto?
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Trata-se de uma To-Do List feita em Angular
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Tecnologias
 
-## Running end-to-end tests
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Angular](https://angular.io/)
+- [Angular Material](https://material.angular.io/)
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### ✨ Sobre a construção do projeto:
+
+- A página inicial possui um card do Angular Material;
+- No card é possível adicionar uma tarefa;
+- A tarefa adicionada irá aparecer numa lista do card;
+- É possível remover uma tarefa da lista;
+
+---
+
+## 🙅 Instalações e usos
+
+Caso queira, clone ou faça o downlod desse repositório:
+
+```
+# Clone o repositório
+$ git clone git@github.com:williamalonso/sistema-cadastro-reunioes.git
+```
+
+<h3 align="center">William Alonso</h3>
