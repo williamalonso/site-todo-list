@@ -40,11 +40,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🙅 Instalações e usos
 
+A versão do Angular CLI é a `14.2.11`.
+
+A versão do Node é `16.17.0`.
+
 Caso queira, clone ou faça o downlod desse repositório:
 
 ```
 # Clone o repositório
-$ git clone git@github.com:williamalonso/sistema-cadastro-reunioes.git
+$ git clone git@github.com:williamalonso/sistema-moments.git
 ```
+Após baixar ou clonar, rode o comando `npm i`.
+
+Para rodar a aplicação dê o comando `ng serve`.
 
 <h3 align="center">William Alonso</h3>
