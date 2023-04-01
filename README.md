@@ -48,7 +48,7 @@ Caso queira, clone ou faça o downlod desse repositório:
 
 ```
 # Clone o repositório
-$ git clone git@github.com:williamalonso/sistema-moments.git
+$ git clone git@github.com:williamalonso/todo-list.git
 ```
 Após baixar ou clonar, rode o comando `npm i`.
 
